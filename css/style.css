@@ -103,7 +103,7 @@ background-color: white;
   height: 30px;
   text-align: center;
   background-color: blue;
-  border-radius: 45%;
+  border-radius: 10px;
 }
 .Today{
   margin-bottom: 10px;
@@ -123,7 +123,7 @@ background-color: white;
   height: 30px;
   text-align: center;
   background-color: purple;
-  border-radius: 45%
+  border-radius: 10px;
 }
 .Interview{
   padding-left: 50px;
@@ -136,7 +136,7 @@ background-color: white;
   height: 30px;
   text-align: center;
   background-color: green;
-  border-radius: 45%;
+  border-radius: 10px;
 }
 .summit{
   padding-left: 50px;
@@ -148,7 +148,7 @@ background-color: white;
   height: 30px;
   text-align: center;
   background-color: orange;
-  border-radius: 45%;
+  border-radius: 10px;
 }
 
 .Upcoming{
@@ -169,7 +169,7 @@ background-color: white;
   height: 30px;
   text-align: center;
   background-color: pink;
-  border-radius: 45%;
+  border-radius: 10px;
 }
 .Onboard{
   padding-left: 50px;
@@ -181,7 +181,7 @@ background-color: white;
   height: 30px;
   text-align: center;
   background-color: darkgreen;
-  border-radius: 45%;
+  border-radius: 10px;
 }
 .Review{
   padding-left: 50px;
